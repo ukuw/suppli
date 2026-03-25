@@ -17,7 +17,7 @@ A beautiful, fluid, and Free and Open Source (FOSS) Android supplement tracker b
 ## ✨ Features
 
 * 🎯 **Pill Tap Goals:** Set exactly how many pills you need to take. Tap the card to increment your progress!
-* 📅 **Mo-Su Weekly Overview:** At-a-glance trackers to see if you cleared your daily stacks.
+* 📅 **Mo-Su Weekly Overview:** At-a-glance trackers to see if you cleared your daily stacks. Tap the Pill in the corner to enable Notifications!
 * ☀️🌙 **Time-of-Day Categorization:** Split your intake into Morning and Evening routines.
 * 🖐️ **Intuitive Drag-and-Drop:** Long-press and drag supplements to effortlessly flick them between Morning and Evening slots.
 * ✏️ **Modify on the Fly:** Seamlessly edit supplement names, dosages, unit types (mg, pills, g, mcg, IU), or purge older logs.
