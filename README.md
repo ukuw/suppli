@@ -42,8 +42,3 @@ A beautiful, fluid, and Free and Open Source (FOSS) Android supplement tracker b
 * **Design Paradigm:** Bouncy Spring Physics, Native Canvas Drawings.
 
 ---
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/suppli.git](https://github.com/yourusername/suppli.git)
