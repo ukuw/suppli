@@ -30,7 +30,9 @@ A beautiful, fluid, and Free and Open Source (FOSS) Android supplement tracker b
 <p align="center">
   <img width="252" height="556" alt="Suppli Tracking Hub" src="https://github.com/user-attachments/assets/a578dc30-3205-44e0-ba54-9b0514dab85e" style="margin-right: 20px;" />
   <img width="252" height="556" alt="Suppli Sheet Metric Selection" src="https://github.com/user-attachments/assets/aee608d8-bace-460b-b0ff-f455cb63abec" />
+  <img width="252" height="556" alt="Suppli Notification Settings" src="https://github.com/user-attachments/assets/f1ad57ee-8448-4cde-88c2-c9ee3cef5646" />
 </p>
+  
 
 ---
 
