@@ -34,11 +34,3 @@ A beautiful, fluid, and Free and Open Source (FOSS) Android supplement tracker b
 
 ---
 
-## 🛠️ Tech Stack
-
-* **Language:** Kotlin
-* **UI Toolkit:** Jetpack Compose (Material 3)
-* **Gestures:** PointerInput detection and Drag-mechanics physics
-* **Design Paradigm:** Bouncy Spring Physics, Native Canvas Drawings.
-
----
